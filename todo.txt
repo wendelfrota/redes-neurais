@@ -1,0 +1,7 @@
+- Material p/ Modelo Linear         | OK
+- Roteiro p/ Modelo Linear          | OK
+- Aula Modelo Linear                | Em andamento
+
+- Material p/ Modelo Multiclasse    | Em andamento
+- Roteiro p/ Modelo Multiclasse     | 
+- Aula Modelo Multiclasse           | 
